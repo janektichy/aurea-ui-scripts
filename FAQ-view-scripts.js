@@ -1,3 +1,3 @@
-$(document).ready(function() {
-    $("#testProp").addClass("scriptClass")
+$(function() {
+    $("#testProp").addClass("scriptClass");
 });
