@@ -1,1 +1,3 @@
-$("#testProp").addClass("scriptClass")
+$(document).ready(function() {
+    $("#testProp").addClass("scriptClass")
+});
