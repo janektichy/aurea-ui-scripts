@@ -1,0 +1,1 @@
+$("#testProp").addClass("scriptClass")
